@@ -11,6 +11,20 @@ This dataset is publicly available for research. The details are described in [M
 The full dataset contains 41,188 observations and 20 input attributes, with the binary target `y` indicating whether a client subscribed to a term deposit. 
 
 
+## How to Run
+
+After downloading, place `KM6312_Group5_BankTelemarketing_FinalCode.ipynb` and `bank-additional-full.csv` in the same folder, then open and run the notebook to reproduce the analysis.
+
+### Files
+
+- `KM6312_Group5_BankTelemarketing_FinalCode.ipynb` — final notebook containing data cleaning, EDA, modeling, and evaluation
+- `bank-additional-full.csv` — raw dataset from the UCI Machine Learning Repository
+
+### Notes
+
+- The notebook expects `bank-additional-full.csv` to be in the same directory as the notebook.
+- Run all cells from top to bottom.
+
 ## Citation 
  [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, In press, http://dx.doi.org/10.1016/j.dss.2014.03.001
 
